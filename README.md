@@ -1,8 +1,8 @@
 # ✨ • About Me:
 
 Professional side:
-<br> &ensp; 📚 I'm a actual student of Epitech Techology
-<br> &ensp; 📚 I've been learning programming for 3 years
+<br> &ensp; 📚 I'm a actual student of Epitech Techology and Jönköping University
+
 <br><br>Personal side:
 <br> &ensp; 💪 I practice many sports like: 🥋 🚴 🧗‍♀️ 🏊‍♂️
 <br> &ensp; 🎮 I love video games, both solo and competitive.
