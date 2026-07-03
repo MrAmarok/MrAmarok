@@ -1,7 +1,7 @@
 # ✨ • About Me:
 
 Professional side:
-<br> &ensp; 📚 I'm a actual student of Epitech Techology and Jönköping University
+<br> &ensp; 📚 I'm a actual student of Epitech Techology
 
 <br><br>Personal side:
 <br> &ensp; 💪 I practice many sports like: 🥋 🚴 🧗‍♀️ 🏊‍♂️
