@@ -1,8 +1,4 @@
 # ✨ • About Me:
-
-Professional side:
-<br> &ensp; 📚 I'm a actual student of Epitech Techology
-
 <br><br>Personal side:
 <br> &ensp; 💪 I practice many sports like: 🥋 🚴 🧗‍♀️ 🏊‍♂️
 <br> &ensp; 🎮 I love video games, both solo and competitive.
@@ -69,12 +65,3 @@ Professional side:
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/fr/)
 [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 ![Github Project](https://img.shields.io/badge/Git%20Project-000000?style=for-the-badge&logo=git&logoColor=white)
-
-# 📊 • GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Dvaking&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaking&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Dvaking&icon=0&color=4)](https://visitcount.itsvg.in)
