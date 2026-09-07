@@ -1,5 +1,5 @@
 # ✨ • About Me:
-<br><br>Personal side:
+Personal side:
 <br> &ensp; 💪 I practice many sports like: 🥋 🚴 🧗‍♀️ 🏊‍♂️
 <br> &ensp; 🎮 I love video games, both solo and competitive.
 <br> &ensp; 🔴 I stream on Twitch
